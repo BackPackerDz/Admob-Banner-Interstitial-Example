@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Admob Banner Interstitial Example</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!--
+        ATTENTION ! n'oubliez pas de remplacer des ID par les vôtres !
+     -->
+    <string name="id_banner">ca-app-pub-3431238505773199/3500193068</string>
+    <string name="id_interstitiel">ca-app-pub-3431238505773199/4976926269</string>
+
+</resources>
